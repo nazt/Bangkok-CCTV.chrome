@@ -8,9 +8,6 @@
     "48": "icon/od.png",
     "128": "icon/128.png"
    },
-  "permissions": ["tabs", "notifications"],
-  "options_page": "options.html",
-  "background_page": "background.html",
   "browser_action": {
 		"default_icon": "icon/od.png",
 		"popup": "popup.html"
